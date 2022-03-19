@@ -64,19 +64,18 @@ options{
  
  
  success{
- mail bcc: 'devopstrainingblr@gmail.com', body: '''BuildOver!....
+ mail bcc: 'sesidevops@gmail.com', body: '''BuildOver!....
 
  Regards,
- Mithun Technologies,
- 9980923226''', cc: 'devopstrainingblr@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devopstrainingblr@gmail.com'
+ ''', cc: 'sesidevops@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'sesidevops@gmail.com'
  }
  
  failure{
- mail bcc: 'devopstrainingblr@gmail.com', body: '''BuildOver!....
+ mail bcc: 'sesidevops@gmail.com', body: '''BuildOver!....
 
  Regards,
- Mithun Technologies,
- 9980923226''', cc: 'devopstrainingblr@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devopstrainingblr@gmail.com'
+ sesi
+ 9191919191''', cc: 'sesidevops@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'sesidevops@gmail.com'
  }
  
  }
